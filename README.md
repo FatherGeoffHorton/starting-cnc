@@ -24,7 +24,7 @@ What does this all look like in practice? That’s what we’ll look at next.
 
 ## From picture to G-code
 
-Here’s a line drawing of a happy puppy (thanks to ChatGPT). How do I turn this into a nicely engraved memento? This same process will work with scanned pictures and the like–more on that later. (By the way, simpler is usually better. When you try this on your own pictures, if you’re having trouble getting good results, upload your picture to your favorite AI and ask for a simplified version.)
+Here’s a line drawing of a happy puppy (thanks to ChatGPT). ![Picture of a happy puppy](/HappyPuppy.png) How do I turn this into a nicely engraved memento? This same process will work with scanned pictures and the like–more on that later. (By the way, simpler is usually better. When you try this on your own pictures, if you’re having trouble getting good results, upload your picture to your favorite AI and ask for a simplified version.)
 
 This picture is in PNG format; you may have one in JPG instead. CNC preparation software tends to like SVG formatted files. Some CNC software will offer to process a PNG or JPG for you, but results may vary. I’ve had good luck using [Adobe’s SVG converter](https://www.adobe.com/express/feature/image/convert/svg). (I receive no compensation for any of the products I mention here).
 
